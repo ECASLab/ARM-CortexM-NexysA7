@@ -9,6 +9,7 @@
 int main(void)
 {
     int status;
+    char    debugStr[256];
     // CPU ID register
     volatile u32 *pCPUId = (u32 *)0xE000ED00;
     volatile u32 CPUId;
@@ -44,20 +45,19 @@ int main(void)
     {
         case 0xC21 : strcpy(  CPU_name, "Cortex-M1" ); break;
         case 0xC23 : strcpy(  CPU_name, "Cortex-M3" ); break;
-        default    :
-					 strcpy(  CPU_name, "Unknown: ");
-                	 strcat(  CPU_name, (char *)CPU_part);
-                	 break;
+        default    : sprintf( CPU_name, "Unknown %x", CPU_part );
     }
+    sprintf (debugStr, "Arm %s Revision %i Variant %i\r\n\n", CPU_name, CPU_rev, CPU_var );
 #ifndef SIM_BUILD    
     // Use Xilinx version print command
     print ("************************************\r\n");
-    xil_printf ("Arm %s Revision %i Variant %i\r\n\n", CPU_name, CPU_rev, CPU_var );
-    print ("Example design for Digilent A7 board\r\n");
+    print ( debugStr );
+    print ("Example design for Digilent Nexys-A7 board\r\n");
     print (" Version 1.1\r\n");
+    print (" Project: HelloWorldIO_v2.0\r\n");
     print ("************************************\r\n");
 #else
-    xil_printf ("Arm %s Revision %i Variant %i\r\n\n", CPU_name, CPU_rev, CPU_var );
+    print ( debugStr );
 #endif
     print("Hello World: platform m1_nexys_a7_io_hw\n\r");
     while(1)
