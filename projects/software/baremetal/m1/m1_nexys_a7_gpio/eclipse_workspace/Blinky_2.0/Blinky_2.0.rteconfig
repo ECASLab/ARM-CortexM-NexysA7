@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+  <packages/>
+  <device Dclock="10000000" Dcore="Cortex-M1" DcoreVersion="r1p0" Dendian="Little-endian" Dfamily="ARM Cortex M1" Dfpu="NO_FPU" Dmpu="NO_MPU" Dname="ARMCM1" Dvendor="ARM:82" info="ARM , 128 KB RAM, 256 KB ROM" url="https://www.keil.com/dd2/arm/armcm1">
+    <package info="CMSIS (Common Microcontroller Software Interface Standard)" name="CMSIS" url="http://www.keil.com/pack/" vendor="ARM" version="5.8.1"/>
+  </device>
+  <toolchain Tcompiler="GCC" Toutput="exe"/>
+  <components>
+    <component Cclass="CMSIS" Cgroup="CORE" Cvendor="ARM" Cversion="5.5.0">
+      <package name="CMSIS" url="http://www.keil.com/pack/" vendor="ARM" version="5.8.1"/>
+      <file category="doc" name="CMSIS/Documentation/Core/html/index.html"/>
+      <file category="include" name="CMSIS/Core/Include/"/>
+      <file category="header" condition="TrustZone" name="CMSIS/Core/Include/tz_context.h"/>
+      <file attr="template" category="sourceC" condition="TZ Secure" name="CMSIS/Core/Template/ARMv8-M/main_s.c" select="Secure mode 'main' module for ARMv8-M" version="1.1.1"/>
+      <file attr="template" category="sourceC" condition="TZ Secure" name="CMSIS/Core/Template/ARMv8-M/tz_context.c" select="RTOS Context Management (TrustZone for ARMv8-M)" version="1.1.1"/>
+    </component>
+    <component Cclass="Device" Cgroup="Startup" Cvariant="C Startup" Cvendor="ARM" Cversion="2.0.3" deviceDependent="1">
+      <package name="CMSIS" url="http://www.keil.com/pack/" vendor="ARM" version="5.8.1"/>
+      <file category="header" deviceDependent="1" name="Device/ARM/ARMCM1/Include/ARMCM1.h"/>
+      <file attr="config" category="sourceC" deviceDependent="1" name="Device/ARM/ARMCM1/Source/startup_ARMCM1.c" version="2.0.3"/>
+      <file attr="config" category="linkerScript" condition="GCC" deviceDependent="1" name="Device/ARM/ARMCM1/Source/GCC/gcc_arm.ld" version="2.1.0"/>
+      <file attr="config" category="sourceC" deviceDependent="1" name="Device/ARM/ARMCM1/Source/system_ARMCM1.c" version="1.0.0"/>
+    </component>
+  </components>
+  <apis/>
+</configuration>
