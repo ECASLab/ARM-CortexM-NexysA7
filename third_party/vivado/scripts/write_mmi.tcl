@@ -100,8 +100,8 @@ proc write_mmi {cell_name} {
 			}
 		}
 		puts $fileout "      </BusBlock>"
-		puts $fileout "    </AddressSpace>"
 	}
+	puts $fileout "    </AddressSpace>"
 	puts $fileout "  </Processor>"
 	puts $fileout "<Config>"
 	puts $fileout "  <Option Name=\"Part\" Val=\"[get_property PART [current_project ]]\"/>"
