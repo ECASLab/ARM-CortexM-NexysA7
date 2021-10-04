@@ -1,6 +1,6 @@
-2021-10-02T17:08:36.60590600255-17:08:36 **** Clean-only build of project m1_nexys_a7_sdram_hw ****
-000-buildplatform.sh 35403 m1_nexys_a7_sdram_hw clean 
-000-XSDB Server Channel: tcfchan#2
+2021-10-04T12:34:07.90811700255-12:34:07 **** Clean-only build of project m1_nexys_a7_sdram_hw ****
+000-buildplatform.sh 39033 m1_nexys_a7_sdram_hw clean 
+000-XSDB Server Channel: tcfchan#12
 000-Cleaning the BSP for domain  - standalone_domain
 000-make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s clean 
 000-
@@ -19,5 +19,5 @@
 000-rm -f CORTEXM1_AXI_0/lib/libxil.a
 000-
 00255-
-17:08:42 Build Finished (took 5s.481ms)
+12:34:13 Build Finished (took 5s.427ms)
 

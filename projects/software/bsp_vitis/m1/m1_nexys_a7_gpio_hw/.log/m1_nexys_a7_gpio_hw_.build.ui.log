@@ -1,0 +1,17 @@
+2021-10-04T12:33:38.33452900255-12:33:38 **** Clean-only build of project m1_nexys_a7_gpio_hw ****
+000-buildplatform.sh 39033 m1_nexys_a7_gpio_hw clean 
+000-XSDB Server Channel: tcfchan#8
+000-Cleaning the BSP for domain  - standalone_domain
+000-make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s clean 
+000-
+000-make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s clean 
+000-
+000-make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s clean 
+000-
+000-make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s clean 
+000-
+000-rm -f CORTEXM1_AXI_0/lib/libxil.a
+000-
+00255-
+12:33:43 Build Finished (took 5s.427ms)
+

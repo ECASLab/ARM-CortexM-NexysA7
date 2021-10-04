@@ -16,3 +16,5 @@ platform write
 platform generate -domains 
 platform active {m1_nexys_a7_gpio_hw}
 platform generate
+platform generate
+platform clean

@@ -18,3 +18,5 @@ platform active {m1_nexys_a7_hw}
 bsp reload
 platform generate
 platform clean
+platform generate
+platform clean

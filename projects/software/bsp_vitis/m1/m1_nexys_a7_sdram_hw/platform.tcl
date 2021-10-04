@@ -21,3 +21,6 @@ platform active {m1_nexys_a7_sdram_hw}
 platform config -updatehw {/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7_sdram/m1_nexys_a7_sdram_wrapper.xsa}
 platform generate
 platform clean
+platform generate
+platform clean
+platform clean

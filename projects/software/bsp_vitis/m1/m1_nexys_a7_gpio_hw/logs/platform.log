@@ -1,0 +1,296 @@
+TRACE::2021-10-04.12:29:53::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:53::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:53::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened new HwDB with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWReader::Active system found as  m1_nexys_a7_gpio_hw
+TRACE::2021-10-04.12:29:55::SCWReader::Handling sysconfig m1_nexys_a7_gpio_hw
+TRACE::2021-10-04.12:29:55::SCWDomain::checking for install qemu data   : 
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-10-04.12:29:55::SCWMssOS::No sw design opened at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::mss exists loading the mss file  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::Opened the sw design from mss  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::Adding the swdes entry /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-10-04.12:29:55::SCWMssOS::updating the scw layer about changes
+TRACE::2021-10-04.12:29:55::SCWMssOS::Opened the sw design.  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-04.12:29:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-04.12:29:55::SCWMssOS::Commit changes completed.
+TRACE::2021-10-04.12:29:55::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-10-04.12:29:55::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWReader::No isolation master present  
+LOG::2021-10-04.12:29:55::SCWPlatform::Started generating the artifacts platform m1_nexys_a7_gpio_hw
+TRACE::2021-10-04.12:29:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-10-04.12:29:55::SCWPlatform::Started generating the artifacts for system configuration m1_nexys_a7_gpio_hw
+LOG::2021-10-04.12:29:55::SCWSystem::Checking the domain standalone_domain
+LOG::2021-10-04.12:29:55::SCWSystem::Not a boot domain 
+LOG::2021-10-04.12:29:55::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-10-04.12:29:55::SCWDomain::Generating domain artifcats
+TRACE::2021-10-04.12:29:55::SCWMssOS::Generating standalone artifcats
+TRACE::2021-10-04.12:29:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:55::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::Completed writing the mss file at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp
+TRACE::2021-10-04.12:29:55::SCWMssOS::Mss edits present, copying mssfile into export location /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-10-04.12:29:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-10-04.12:29:55::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2021-10-04.12:29:55::SCWMssOS::doing bsp build ... 
+TRACE::2021-10-04.12:29:55::SCWMssOS::System Command Ran  cd  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp ; bash -c "make  " 
+TRACE::2021-10-04.12:29:55::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-e
+TRACE::2021-10-04.12:29:55::SCWMssOS::abi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-04.12:29:55::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none
+TRACE::2021-10-04.12:29:55::SCWMssOS::-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-04.12:29:55::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-ea
+TRACE::2021-10-04.12:29:55::SCWMssOS::bi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Compiling cpu_cortexm1
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi
+TRACE::2021-10-04.12:29:55::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:55::SCWMssOS::Compiling standalone
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Finished building libraries sequentially.
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-e
+TRACE::2021-10-04.12:29:56::SCWMssOS::abi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-04.12:29:56::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none
+TRACE::2021-10-04.12:29:56::SCWMssOS::-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-04.12:29:56::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "
+TRACE::2021-10-04.12:29:56::SCWMssOS::COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "
+TRACE::2021-10-04.12:29:56::SCWMssOS::COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Finished building libraries parallelly.
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::make --no-print-directory archive
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::arm-none-eabi-ar -r  CORTEXM1_AXI_0/lib/libxil.a CORTEXM1_AXI_0/lib/xbram_g.o CORTEXM1_AXI_0/lib/xbram_intr.o CORTEXM1_AXI_0/li
+TRACE::2021-10-04.12:29:56::SCWMssOS::b/xgpio_extra.o CORTEXM1_AXI_0/lib/xgpio_selftest.o CORTEXM1_AXI_0/lib/xgpio_sinit.o CORTEXM1_AXI_0/lib/xgpio_g.o CORTEXM1_AXI_
+TRACE::2021-10-04.12:29:56::SCWMssOS::0/lib/xgpio.o CORTEXM1_AXI_0/lib/xbram_selftest.o CORTEXM1_AXI_0/lib/xbram_sinit.o CORTEXM1_AXI_0/lib/xbram.o CORTEXM1_AXI_0/li
+TRACE::2021-10-04.12:29:56::SCWMssOS::b/xgpio_intr.o
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Finished building libraries
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Copying to export directory.
+TRACE::2021-10-04.12:29:56::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-10-04.12:29:56::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-10-04.12:29:56::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-10-04.12:29:56::SCWSystem::Completed Processing the sysconfig m1_nexys_a7_gpio_hw
+LOG::2021-10-04.12:29:56::SCWPlatform::Completed generating the artifacts for system configuration m1_nexys_a7_gpio_hw
+TRACE::2021-10-04.12:29:56::SCWPlatform::Started preparing the platform 
+TRACE::2021-10-04.12:29:56::SCWSystem::Writing the bif file for system config m1_nexys_a7_gpio_hw
+TRACE::2021-10-04.12:29:56::SCWSystem::dir created 
+TRACE::2021-10-04.12:29:56::SCWSystem::Writing the bif 
+TRACE::2021-10-04.12:29:56::SCWPlatform::Started writing the spfm file 
+TRACE::2021-10-04.12:29:56::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-10-04.12:29:56::SCWPlatform::Completed generating the platform
+TRACE::2021-10-04.12:29:56::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-04.12:29:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-04.12:29:56::SCWMssOS::Commit changes completed.
+TRACE::2021-10-04.12:29:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:56::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:56::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:56::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_gpio_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7_gpio/m1_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_gpio_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_gpio_hw",
+			"systemDesc":	"m1_nexys_a7_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on CORTEXM1_AXI_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"bac25b0efda9167774dcdaa2e8e4ca9f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-10-04.12:29:56::SCWPlatform::updated the xpfm file.
+TRACE::2021-10-04.12:29:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw
+TRACE::2021-10-04.12:29:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/hw/m1_gpio_wrapper.xsa
+TRACE::2021-10-04.12:29:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-04.12:29:56::SCWPlatform::Trying to set the existing hwdb with name m1_gpio_wrapper
+TRACE::2021-10-04.12:29:56::SCWPlatform::Opened existing hwdb m1_gpio_wrapper
+TRACE::2021-10-04.12:29:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-04.12:29:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:29:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-04.12:29:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-04.12:33:40::SCWMssOS::cleaning the bsp 
+TRACE::2021-10-04.12:33:40::SCWMssOS::System Command Ran  cd  /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/CORTEXM1_AXI_0/standalone_domain/bsp ; bash -c "make  clean " 
+TRACE::2021-10-04.12:33:40::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s clean 
+
+TRACE::2021-10-04.12:33:40::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s clean 
+
+TRACE::2021-10-04.12:33:40::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s clean 
+
+TRACE::2021-10-04.12:33:40::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s clean 
+
+TRACE::2021-10-04.12:33:40::SCWMssOS::rm -f CORTEXM1_AXI_0/lib/libxil.a
+

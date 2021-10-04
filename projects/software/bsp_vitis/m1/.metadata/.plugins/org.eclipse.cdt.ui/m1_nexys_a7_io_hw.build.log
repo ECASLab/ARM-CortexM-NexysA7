@@ -1,0 +1,100 @@
+12:31:45 **** Build of project m1_nexys_a7_io_hw ****
+buildplatform.sh 39033 m1_nexys_a7_io_hw  
+XSDB Server Channel: tcfchan#7
+Building the BSP Library for domain  - standalone_domain on processor CORTEXM1_AXI_0
+make --no-print-directory seq_libs
+
+Running Make include in CORTEXM1_AXI_0/libsrc/iic_v3_7/src
+
+make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+ "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-e
+abi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/spi_v4_7/src
+
+make -C CORTEXM1_AXI_0/libsrc/spi_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+ "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none
+-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src
+
+make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eab
+i-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make include in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Running Make libs in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-ea
+bi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Compiling cpu_cortexm1
+
+Running Make libs in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi
+-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+Compiling standalone
+
+In file included from xil_cache.c:108:
+xil_cache.h: In function 'Xil_DCacheInvalidateRange':
+xil_cache.h:62:39: warning: unused parameter 'adr' [-Wunused-parameter]
+   62 | void Xil_DCacheInvalidateRange(INTPTR adr, u32 len) {};
+      |                                ~~~~~~~^~~
+xil_cache.h:62:48: warning: unused parameter 'len' [-Wunused-parameter]
+   62 | void Xil_DCacheInvalidateRange(INTPTR adr, u32 len) {};
+      |                                            ~~~~^~~
+xil_cache.h: In function 'Xil_DCacheFlushRange':
+xil_cache.h:64:34: warning: unused parameter 'adr' [-Wunused-parameter]
+   64 | void Xil_DCacheFlushRange(INTPTR adr, u32 len) {};
+      |                           ~~~~~~~^~~
+xil_cache.h:64:43: warning: unused parameter 'len' [-Wunused-parameter]
+   64 | void Xil_DCacheFlushRange(INTPTR adr, u32 len) {};
+      |                                       ~~~~^~~
+xil_cache.h: In function 'Xil_ICacheInvalidateRange':
+xil_cache.h:69:39: warning: unused parameter 'adr' [-Wunused-parameter]
+   69 | void Xil_ICacheInvalidateRange(INTPTR adr, u32 len) {};
+      |                                ~~~~~~~^~~
+xil_cache.h:69:48: warning: unused parameter 'len' [-Wunused-parameter]
+   69 | void Xil_ICacheInvalidateRange(INTPTR adr, u32 len) {};
+      |                                            ~~~~^~~
+/opt/Xilinx/Vitis/2020.2/gnu/aarch32/lin/gcc-arm-none-eabi/bin/../x86_64-oesdk-linux/usr/bin/arm-xilinx-eabi/arm-xilinx-eabi-ar.real: ../../../lib/libxil.a: No such file or directory
+Failed to generate the platform.
+make[2]: *** [Makefile:66: standalone_libs] Error 1
+make[1]: *** [Makefile:46: CORTEXM1_AXI_0/libsrc/standalone_v7_3/src/make.libs] Error 2
+Reason: Failed to build  the bsp sources for domain - standalone_domain
+    invoked from within
+make: *** [Makefile:18: all] Error 2
+Failed to build  the bsp sources for domain - standalone_domain
+"::tcf::eval -progress {apply {{msg} {puts $msg}}} {tcf_send_command tcfchan#0 xsdb eval s es {{platform active m1_nexys_a7_io_hw; platform generate }}}"
+    (procedure "::tcf::send_command" line 4)
+    invoked from within
+"tcf send_command $::xsdb::curchan xsdb eval s es [list "platform active $PLATFORM_NAME; platform generate $target"]"
+    invoked from within
+"if { $iswindows == 1 } {    
+
+    set XSDB_PORT [lindex $argv 0]
+    set PLATFORM_NAME [lindex $argv 1]
+    set arglen [llength $argv]
+    set lastind..."
+    (file "/opt/Xilinx/Vitis/2020.2/scripts/vitis/util/buildplatform.tcl" line 11)
+
+12:31:52 Build Finished (took 6s.831ms)
+

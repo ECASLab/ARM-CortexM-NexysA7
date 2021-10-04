@@ -1,0 +1,17 @@
+12:33:49 **** Clean-only build of project m1_nexys_a7_uart_hw ****
+buildplatform.sh 39033 m1_nexys_a7_uart_hw clean 
+XSDB Server Channel: tcfchan#10
+Cleaning the BSP for domain  - standalone_domain
+make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s clean 
+
+make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s clean 
+
+make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s clean 
+
+make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s clean 
+
+rm -f CORTEXM1_AXI_0/lib/libxil.a
+
+
+12:33:54 Build Finished (took 5s.477ms)
+

@@ -29,3 +29,5 @@ platform config -updatehw {/home/jose/Documents/git-ws/personal/local/M1_Nexys_S
 platform generate
 platform clean
 platform generate
+platform generate
+platform clean

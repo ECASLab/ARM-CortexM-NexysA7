@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/export/m1_nexys_a7_gpio_hw;/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_hw/export/m1_nexys_a7_hw;/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_sdram_hw/export/m1_nexys_a7_sdram_hw;/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_uart_hw/export/m1_nexys_a7_uart_hw"/>
+</section>

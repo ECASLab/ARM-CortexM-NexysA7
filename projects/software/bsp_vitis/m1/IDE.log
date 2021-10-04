@@ -1,0 +1,33 @@
+12:13:06 INFO  : Launching XSCT server: xsct -n  -interactive /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/temp_xsdb_launch_script.tcl
+12:13:07 INFO  : Registering command handlers for Vitis TCF services
+12:13:09 INFO  : Platform repository initialization has completed.
+12:13:09 INFO  : XSCT server has started successfully.
+12:13:09 INFO  : plnx-install-location is set to ''
+12:13:09 INFO  : Successfully done setting XSCT server connection channel  
+12:13:09 INFO  : Successfully done setting workspace for the tool. 
+12:13:09 INFO  : Successfully done query RDI_DATADIR 
+12:13:09 INFO  : Restoring global repository preferences: 
+		 /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/vivado/Arm_sw_repository
+12:13:39 INFO  : Saving repository preferences.
+12:13:39 INFO  : Reading in cores from global repositories: 
+		 /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/third_party/vivado/Arm_sw_repository
+12:13:39 INFO  : Cleaning BSP projects in the workspace.
+12:16:09 INFO  : Launching XSCT server: xsct -n  -interactive /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/temp_xsdb_launch_script.tcl
+12:16:09 INFO  : Registering command handlers for Vitis TCF services
+12:16:11 INFO  : Platform repository initialization has completed.
+12:16:12 INFO  : XSCT server has started successfully.
+12:16:12 INFO  : plnx-install-location is set to ''
+12:16:12 INFO  : Successfully done query RDI_DATADIR 
+12:16:12 INFO  : Successfully done setting XSCT server connection channel  
+12:16:12 INFO  : Restoring global repository preferences: 
+		 /home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/third_party/vivado/Arm_sw_repository
+12:16:12 INFO  : Successfully done setting workspace for the tool. 
+12:27:35 INFO  : Platform 'm1_nexys_a7_gpio_hw' is added to custom repositories.
+12:29:56 INFO  : Result from executing command 'getProjects': m1_nexys_a7_gpio_hw;m1_nexys_a7_hw;m1_nexys_a7_io_hw;m1_nexys_a7_sdram_hw;m1_nexys_a7_uart_hw
+12:29:56 INFO  : Result from executing command 'getPlatforms': m1_nexys_a7_gpio_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/export/m1_nexys_a7_gpio_hw/m1_nexys_a7_gpio_hw.xpfm;m1_nexys_uart_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_uart_hw/export/m1_nexys_a7_uart_hw/m1_nexys_uart_hw.xpfm
+12:30:18 INFO  : Result from executing command 'getProjects': m1_nexys_a7_gpio_hw;m1_nexys_a7_hw;m1_nexys_a7_io_hw;m1_nexys_a7_sdram_hw;m1_nexys_a7_uart_hw
+12:30:18 INFO  : Result from executing command 'getPlatforms': m1_nexys_a7_gpio_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/export/m1_nexys_a7_gpio_hw/m1_nexys_a7_gpio_hw.xpfm;m1_nexys_uart_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_uart_hw/export/m1_nexys_a7_uart_hw/m1_nexys_uart_hw.xpfm
+12:30:59 INFO  : Result from executing command 'getProjects': m1_nexys_a7_gpio_hw;m1_nexys_a7_hw;m1_nexys_a7_io_hw;m1_nexys_a7_sdram_hw;m1_nexys_a7_uart_hw
+12:30:59 INFO  : Result from executing command 'getPlatforms': m1_nexys_a7_gpio_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/export/m1_nexys_a7_gpio_hw/m1_nexys_a7_gpio_hw.xpfm;m1_nexys_a7_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_hw/export/m1_nexys_a7_hw/m1_nexys_a7_hw.xpfm;m1_nexys_uart_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_uart_hw/export/m1_nexys_a7_uart_hw/m1_nexys_uart_hw.xpfm
+12:31:23 INFO  : Result from executing command 'getProjects': m1_nexys_a7_gpio_hw;m1_nexys_a7_hw;m1_nexys_a7_io_hw;m1_nexys_a7_sdram_hw;m1_nexys_a7_uart_hw
+12:31:23 INFO  : Result from executing command 'getPlatforms': m1_nexys_a7_gpio_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_gpio_hw/export/m1_nexys_a7_gpio_hw/m1_nexys_a7_gpio_hw.xpfm;m1_nexys_a7_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_hw/export/m1_nexys_a7_hw/m1_nexys_a7_hw.xpfm;m1_nexys_a7_sdram_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_sdram_hw/export/m1_nexys_a7_sdram_hw/m1_nexys_a7_sdram_hw.xpfm;m1_nexys_uart_hw|/home/jose/Documents/git-ws/yumbaruti/colabs/github/ECASLab/ARM-CortexM-NexysA7/projects/software/bsp_vitis/m1/m1_nexys_a7_uart_hw/export/m1_nexys_a7_uart_hw/m1_nexys_uart_hw.xpfm
