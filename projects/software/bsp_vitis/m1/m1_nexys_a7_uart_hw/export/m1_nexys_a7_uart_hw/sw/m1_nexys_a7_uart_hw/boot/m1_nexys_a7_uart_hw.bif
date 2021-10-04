@@ -1,4 +1,4 @@
-/*m1_nexys_uart_hw*/
+/*m1_nexys_a7_uart_hw*/
 the_ROM_image:
 {
    <bitstream> 
