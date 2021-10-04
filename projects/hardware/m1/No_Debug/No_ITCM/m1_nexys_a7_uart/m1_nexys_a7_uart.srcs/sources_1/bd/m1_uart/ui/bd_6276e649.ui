@@ -1,0 +1,76 @@
+{
+   "ActiveEmotionalView":"Color Coded",
+   "Color Coded_ExpandedHierarchyInLayout":"",
+   "Color Coded_Layout":"# # String gsaved with Nlview 7.0r4  2019-12-20 bk=1.5203 VDI=41 GEI=36 GUI=JA:10.0 TLS
+#  -string -flagsOSRD
+preplace port usb_uart -pg 1 -lvl 6 -x 1580 -y 310 -defaultsOSRD
+preplace port reset -pg 1 -lvl 0 -x 0 -y 90 -defaultsOSRD
+preplace port sys_clock -pg 1 -lvl 0 -x 0 -y 160 -defaultsOSRD
+preplace port LOCKUP -pg 1 -lvl 6 -x 1580 -y 520 -defaultsOSRD
+preplace inst CORTEXM1_AXI_0 -pg 1 -lvl 4 -x 1140 -y 500 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 4 -x 1140 -y 320 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 2 -x 410 -y 110 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 120 -y 160 -defaultsOSRD
+preplace inst xlconstant_nmi -pg 1 -lvl 3 -x 760 -y 440 -defaultsOSRD
+preplace inst xlconstant_cfgitcmen -pg 1 -lvl 3 -x 760 -y 540 -defaultsOSRD
+preplace inst CORTEXM1_AXI_0_axi_periph -pg 1 -lvl 3 -x 760 -y 170 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 4 -x 1140 -y 180 -defaultsOSRD
+preplace inst axi_bram_ctrl_0_bram -pg 1 -lvl 5 -x 1450 -y 180 -defaultsOSRD
+preplace netloc reset_1 1 0 2 NJ 90 NJ
+preplace netloc sys_clock_1 1 0 1 NJ 160
+preplace netloc clk_wiz_0_locked 1 1 1 230 150n
+preplace netloc clk_wiz_0_clk_out1 1 1 3 220 10 600 10 940
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 2 2 590 20 920
+preplace netloc axi_uartlite_0_interrupt 1 3 2 950 400 1330
+preplace netloc xlconstant_nmi_dout 1 3 1 910J 440n
+preplace netloc xlconstant_cfgitcmen_dout 1 3 1 NJ 540
+preplace netloc CORTEXM1_AXI_0_LOCKUP 1 4 2 NJ 520 NJ
+preplace netloc ARESETN_1 1 2 1 N 130
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 4 1 NJ 180
+preplace netloc axi_uartlite_0_UART 1 4 2 NJ 310 NJ
+preplace netloc CORTEXM1_AXI_0_CM1_AXI3 1 2 3 610 30 NJ 30 1340
+preplace netloc CORTEXM1_AXI_0_axi_periph_M00_AXI 1 3 1 N 160
+preplace netloc CORTEXM1_AXI_0_axi_periph_M01_AXI 1 3 1 930 180n
+levelinfo -pg 1 0 120 410 760 1140 1450 1580
+pagesize -pg 1 -db -bbox -sgen -120 0 1700 600
+",
+   "Color Coded_ScaleFactor":"0.636967",
+   "Color Coded_TopLeft":"-116,-121",
+   "Default View_ScaleFactor":"0.746399",
+   "Default View_TopLeft":"-117,-54",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r4  2019-12-20 bk=1.5203 VDI=41 GEI=36 GUI=JA:10.0 TLS
+#  -string -flagsOSRD
+preplace port usb_uart -pg 1 -lvl 5 -x 1370 -y 130 -defaultsOSRD
+preplace port reset -pg 1 -lvl 0 -x 0 -y 220 -defaultsOSRD
+preplace port sys_clock -pg 1 -lvl 0 -x 0 -y 240 -defaultsOSRD
+preplace port LOCKUP -pg 1 -lvl 5 -x 1370 -y 380 -defaultsOSRD
+preplace inst CORTEXM1_AXI_0 -pg 1 -lvl 4 -x 1150 -y 360 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 4 -x 1150 -y 140 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 2 -x 420 -y 320 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 130 -y 230 -defaultsOSRD
+preplace inst xlconstant_nmi -pg 1 -lvl 3 -x 780 -y 380 -defaultsOSRD
+preplace inst xlconstant_cfgitcmen -pg 1 -lvl 3 -x 780 -y 480 -defaultsOSRD
+preplace inst CORTEXM1_AXI_0_axi_periph -pg 1 -lvl 3 -x 780 -y 120 -defaultsOSRD
+preplace inst rst_sys_clock_100M -pg 1 -lvl 2 -x 420 -y 140 -defaultsOSRD
+preplace netloc reset_1 1 0 2 20 300 N
+preplace netloc sys_clock_1 1 0 4 30 160 230 40 600 240 930J
+preplace netloc clk_wiz_0_locked 1 1 1 230 240n
+preplace netloc clk_wiz_0_clk_out1 1 1 3 240 30 610 310 950J
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 2 2 620 320 940
+preplace netloc axi_uartlite_0_interrupt 1 3 2 960 260 1350
+preplace netloc xlconstant_nmi_dout 1 3 1 NJ 380
+preplace netloc xlconstant_cfgitcmen_dout 1 3 1 950J 400n
+preplace netloc CORTEXM1_AXI_0_LOCKUP 1 4 1 NJ 380
+preplace netloc rst_sys_clock_100M_peripheral_aresetn 1 2 1 NJ 180
+preplace netloc axi_uartlite_0_UART 1 4 1 NJ 130
+preplace netloc CORTEXM1_AXI_0_CM1_AXI3 1 2 3 630 250 NJ 250 1340
+preplace netloc CORTEXM1_AXI_0_axi_periph_M00_AXI 1 3 1 N 120
+levelinfo -pg 1 0 130 420 780 1150 1370
+pagesize -pg 1 -db -bbox -sgen -120 0 1490 540
+"
+}
+{
+   "da_axi4_cnt":"2",
+   "da_bram_cntlr_cnt":"1"
+}
