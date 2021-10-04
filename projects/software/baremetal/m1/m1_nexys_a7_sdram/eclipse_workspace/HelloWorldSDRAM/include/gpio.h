@@ -6,8 +6,8 @@
 #define GPIO1_IRQn Interrupt2_IRQn
 
 /* GPIO channel identifiers */
-#define NEXYS_A7_LED_CHANNEL 2
-#define NEXYS_A7_DIP_CHANNEL 1
+#define NEXYS_A7_LED_CHANNEL 1
+#define NEXYS_A7_DIP_CHANNEL 2
 #define NEXYS_A7_RGB_CHANNEL 1
 #define NEXYS_A7_PB_CHANNEL  2
 /***************** Macros (Inline Functions) Definitions *********************/

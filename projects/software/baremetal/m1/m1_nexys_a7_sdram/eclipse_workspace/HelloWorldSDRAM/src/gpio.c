@@ -53,7 +53,7 @@ void EnableGPIOInterrupts( void )
 {
     // Push buttons and DIP switches are on Channel 2
     XGpio_InterruptEnable(&Gpio_RGBLed_PB, XGPIO_IR_CH2_MASK);
-    XGpio_InterruptEnable(&Gpio_Led_DIPSw, XGPIO_IR_CH1_MASK);
+    XGpio_InterruptEnable(&Gpio_Led_DIPSw, XGPIO_IR_CH2_MASK);
     // Having enabled the M1 to handle the interrupts, now enable the GPIO to send the interrupts
     XGpio_InterruptGlobalEnable(&Gpio_RGBLed_PB);
     XGpio_InterruptGlobalEnable(&Gpio_Led_DIPSw);

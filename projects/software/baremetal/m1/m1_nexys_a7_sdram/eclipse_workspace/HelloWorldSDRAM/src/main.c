@@ -57,8 +57,9 @@ int main(void)
     // Use Xilinx version print command
     print ("************************************\r\n");
     print ( debugStr );
-    print ("Example design for Digilent A7 board\r\n");
+    print ("Example design for Digilent Nexys-A7 board\r\n");
     print (" Version 1.1\r\n");
+    print (" Project: HelloWorldSDRAM\r\n");
     print ("************************************\r\n");
 #else
     print ( debugStr );
