@@ -1,0 +1,1136 @@
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened new HwDB with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2021-10-03.18:35:55::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw"
+		}]
+}
+TRACE::2021-10-03.18:35:55::SCWPlatform::Boot application domains not present, creating them
+TRACE::2021-10-03.18:35:55::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2021-10-03.18:35:55::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw"
+		}]
+}
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWDomain::checking for install qemu data   : 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-10-03.18:35:55::SCWMssOS::No sw design opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::mss does not exists at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Creating sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Adding the swdes entry, created swdb /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::updating the scw layer changes to swdes at   /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Writing mss at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Completed writing the mss file at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp
+TRACE::2021-10-03.18:35:55::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2021-10-03.18:35:55::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2021-10-03.18:35:55::SCWMssOS::Completed writing the mss file at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp
+TRACE::2021-10-03.18:35:55::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2021-10-03.18:35:55::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:55::SCWMssOS::Running validate of swdbs.
+KEYINFO::2021-10-03.18:35:55::SCWMssOS::Could not open the swdb for /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+KEYINFO::2021-10-03.18:35:55::SCWMssOS::Could not open the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-10-03.18:35:55::SCWMssOS::Adding the swdes entry, mss present, able to open swdb /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-10-03.18:35:55::SCWMssOS::Writing the mss file completed /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2021-10-03.18:35:55::SCWPlatform::Started generating the artifacts platform m1_nexys_a7_hw
+TRACE::2021-10-03.18:35:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-10-03.18:35:55::SCWPlatform::Started generating the artifacts for system configuration m1_nexys_a7_hw
+LOG::2021-10-03.18:35:55::SCWSystem::Checking the domain standalone_domain
+LOG::2021-10-03.18:35:55::SCWSystem::Not a boot domain 
+LOG::2021-10-03.18:35:55::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-10-03.18:35:55::SCWDomain::Generating domain artifcats
+TRACE::2021-10-03.18:35:55::SCWMssOS::Generating standalone artifcats
+TRACE::2021-10-03.18:35:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Completed writing the mss file at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp
+TRACE::2021-10-03.18:35:55::SCWMssOS::Mss edits present, copying mssfile into export location /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-10-03.18:35:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-10-03.18:35:55::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2021-10-03.18:35:55::SCWMssOS::skipping the bsp build ... 
+TRACE::2021-10-03.18:35:55::SCWMssOS::Copying to export directory.
+TRACE::2021-10-03.18:35:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-10-03.18:35:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-10-03.18:35:55::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-10-03.18:35:55::SCWSystem::Completed Processing the sysconfig m1_nexys_a7_hw
+LOG::2021-10-03.18:35:55::SCWPlatform::Completed generating the artifacts for system configuration m1_nexys_a7_hw
+TRACE::2021-10-03.18:35:55::SCWPlatform::Started preparing the platform 
+TRACE::2021-10-03.18:35:55::SCWSystem::Writing the bif file for system config m1_nexys_a7_hw
+TRACE::2021-10-03.18:35:55::SCWSystem::dir created 
+TRACE::2021-10-03.18:35:55::SCWSystem::Writing the bif 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Started writing the spfm file 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-10-03.18:35:55::SCWPlatform::Completed generating the platform
+TRACE::2021-10-03.18:35:55::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:35:55::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:55::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:55::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:55::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:55::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:55::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-10-03.18:35:55::SCWPlatform::updated the xpfm file.
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on CORTEXM1_AXI_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-10-03.18:35:56::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_2
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on CORTEXM1_AXI_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-10-03.18:35:56::SCWPlatform::Clearing the existing platform
+TRACE::2021-10-03.18:35:56::SCWSystem::Clearing the existing sysconfig
+TRACE::2021-10-03.18:35:56::SCWMssOS::Removing the swdes entry for  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWSystem::Clearing the domains completed.
+TRACE::2021-10-03.18:35:56::SCWPlatform::Clearing the opened hw db.
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform location is /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Removing the HwDB with name /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened new HwDB with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWReader::Active system found as  m1_nexys_a7_hw
+TRACE::2021-10-03.18:35:56::SCWReader::Handling sysconfig m1_nexys_a7_hw
+TRACE::2021-10-03.18:35:56::SCWDomain::checking for install qemu data   : 
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-10-03.18:35:56::SCWMssOS::No sw design opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::mss exists loading the mss file  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Opened the sw design from mss  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Adding the swdes entry /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-10-03.18:35:56::SCWMssOS::updating the scw layer about changes
+TRACE::2021-10-03.18:35:56::SCWMssOS::Opened the sw design.  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:35:56::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:35:56::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-10-03.18:35:56::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:35:56::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:35:56::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:35:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:35:56::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:35:56::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:35:56::SCWReader::No isolation master present  
+TRACE::2021-10-03.18:36:01::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:01::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:01::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:01::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:01::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:01::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:01::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:01::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:01::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:01::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:36:01::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::In reload Mss file.
+TRACE::2021-10-03.18:36:02::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:02::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:02::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:02::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:02::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2021-10-03.18:36:02::SCWMssOS::Could not open the swdb for system
+KEYINFO::2021-10-03.18:36:02::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2021-10-03.18:36:02::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-10-03.18:36:02::SCWMssOS::No sw design opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::mss exists loading the mss file  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::Opened the sw design from mss  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::Adding the swdes entry /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-10-03.18:36:02::SCWMssOS::updating the scw layer about changes
+TRACE::2021-10-03.18:36:02::SCWMssOS::Opened the sw design.  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:36:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:36:02::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:36:02::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:02::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:02::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:02::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:02::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:02::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:36:02::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:02::SCWMssOS::Removing the swdes entry for  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+LOG::2021-10-03.18:36:43::SCWPlatform::Started generating the artifacts platform m1_nexys_a7_hw
+TRACE::2021-10-03.18:36:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-10-03.18:36:43::SCWPlatform::Started generating the artifacts for system configuration m1_nexys_a7_hw
+LOG::2021-10-03.18:36:43::SCWSystem::Checking the domain standalone_domain
+LOG::2021-10-03.18:36:43::SCWSystem::Not a boot domain 
+LOG::2021-10-03.18:36:43::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-10-03.18:36:43::SCWDomain::Generating domain artifcats
+TRACE::2021-10-03.18:36:43::SCWMssOS::Generating standalone artifcats
+TRACE::2021-10-03.18:36:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-10-03.18:36:43::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:43::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:43::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:43::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:43::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:43::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:43::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:43::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:43::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-10-03.18:36:43::SCWMssOS::No sw design opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::mss exists loading the mss file  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::Opened the sw design from mss  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::Adding the swdes entry /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-10-03.18:36:43::SCWMssOS::updating the scw layer about changes
+TRACE::2021-10-03.18:36:43::SCWMssOS::Opened the sw design.  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::Completed writing the mss file at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp
+TRACE::2021-10-03.18:36:43::SCWMssOS::Mss edits present, copying mssfile into export location /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-10-03.18:36:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-10-03.18:36:43::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2021-10-03.18:36:43::SCWMssOS::doing bsp build ... 
+TRACE::2021-10-03.18:36:43::SCWMssOS::System Command Ran  cd  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp ; bash -c "make  " 
+TRACE::2021-10-03.18:36:43::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/iic_v3_7/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+TRACE::2021-10-03.18:36:43::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-e
+TRACE::2021-10-03.18:36:43::SCWMssOS::abi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/spi_v4_7/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/spi_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+TRACE::2021-10-03.18:36:43::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-03.18:36:43::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none
+TRACE::2021-10-03.18:36:43::SCWMssOS::-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eab
+TRACE::2021-10-03.18:36:43::SCWMssOS::i-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-03.18:36:43::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-ea
+TRACE::2021-10-03.18:36:43::SCWMssOS::bi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Compiling cpu_cortexm1
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi
+TRACE::2021-10-03.18:36:43::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:43::SCWMssOS::Compiling standalone
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Finished building libraries sequentially.
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/iic_v3_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/standalone_v7_3/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+TRACE::2021-10-03.18:36:45::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-e
+TRACE::2021-10-03.18:36:45::SCWMssOS::abi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/spi_v4_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/spi_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar"
+TRACE::2021-10-03.18:36:45::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-03.18:36:45::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none
+TRACE::2021-10-03.18:36:45::SCWMssOS::-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eab
+TRACE::2021-10-03.18:36:45::SCWMssOS::i-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make include in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar
+TRACE::2021-10-03.18:36:45::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/iic_v3_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "C
+TRACE::2021-10-03.18:36:45::SCWMssOS::OMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/spi_v4_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/gpio_v4_7/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Running Make libs in CORTEXM1_AXI_0/libsrc/bram_v4_5/src
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/spi_v4_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "C
+TRACE::2021-10-03.18:36:45::SCWMssOS::OMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "
+TRACE::2021-10-03.18:36:45::SCWMssOS::COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-a
+TRACE::2021-10-03.18:36:45::SCWMssOS::r" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "
+TRACE::2021-10-03.18:36:45::SCWMssOS::COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-march=armv6-m -mthumb -Wall -Wextra"
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Finished building libraries parallelly.
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::make --no-print-directory archive
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::arm-none-eabi-ar -r  CORTEXM1_AXI_0/lib/libxil.a CORTEXM1_AXI_0/lib/xiic_stats.o CORTEXM1_AXI_0/lib/xuartlite.o CORTEXM1_AXI_0/
+TRACE::2021-10-03.18:36:45::SCWMssOS::lib/xbram_g.o CORTEXM1_AXI_0/lib/xiic_g.o CORTEXM1_AXI_0/lib/xbram_intr.o CORTEXM1_AXI_0/lib/xgpio_extra.o CORTEXM1_AXI_0/lib/x
+TRACE::2021-10-03.18:36:45::SCWMssOS::iic_intr.o CORTEXM1_AXI_0/lib/xgpio_selftest.o CORTEXM1_AXI_0/lib/xspi_g.o CORTEXM1_AXI_0/lib/xspi_stats.o CORTEXM1_AXI_0/lib/x
+TRACE::2021-10-03.18:36:45::SCWMssOS::gpio_sinit.o CORTEXM1_AXI_0/lib/xiic_master.o CORTEXM1_AXI_0/lib/xuartlite_g.o CORTEXM1_AXI_0/lib/xgpio_g.o CORTEXM1_AXI_0/lib/
+TRACE::2021-10-03.18:36:45::SCWMssOS::xuartlite_stats.o CORTEXM1_AXI_0/lib/xbram_selftest.o CORTEXM1_AXI_0/lib/xiic_selftest.o CORTEXM1_AXI_0/lib/xiic_dyn_master.o C
+TRACE::2021-10-03.18:36:45::SCWMssOS::ORTEXM1_AXI_0/lib/xbram_sinit.o CORTEXM1_AXI_0/lib/xiic_sinit.o CORTEXM1_AXI_0/lib/xiic_multi_master.o CORTEXM1_AXI_0/lib/xbram
+TRACE::2021-10-03.18:36:45::SCWMssOS::.o CORTEXM1_AXI_0/lib/xiic.o CORTEXM1_AXI_0/lib/xspi_selftest.o CORTEXM1_AXI_0/lib/xspi_sinit.o CORTEXM1_AXI_0/lib/xgpio.o CORT
+TRACE::2021-10-03.18:36:45::SCWMssOS::EXM1_AXI_0/lib/xspi.o CORTEXM1_AXI_0/lib/xiic_l.o CORTEXM1_AXI_0/lib/xuartlite_selftest.o CORTEXM1_AXI_0/lib/xiic_options.o COR
+TRACE::2021-10-03.18:36:45::SCWMssOS::TEXM1_AXI_0/lib/xuartlite_sinit.o CORTEXM1_AXI_0/lib/xuartlite_intr.o CORTEXM1_AXI_0/lib/xuartlite_l.o CORTEXM1_AXI_0/lib/xiic_
+TRACE::2021-10-03.18:36:45::SCWMssOS::slave.o CORTEXM1_AXI_0/lib/xgpio_intr.o CORTEXM1_AXI_0/lib/xspi_options.o
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Finished building libraries
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Copying to export directory.
+TRACE::2021-10-03.18:36:45::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-10-03.18:36:45::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-10-03.18:36:45::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-10-03.18:36:45::SCWSystem::Completed Processing the sysconfig m1_nexys_a7_hw
+LOG::2021-10-03.18:36:45::SCWPlatform::Completed generating the artifacts for system configuration m1_nexys_a7_hw
+TRACE::2021-10-03.18:36:45::SCWPlatform::Started preparing the platform 
+TRACE::2021-10-03.18:36:45::SCWSystem::Writing the bif file for system config m1_nexys_a7_hw
+TRACE::2021-10-03.18:36:45::SCWSystem::dir created 
+TRACE::2021-10-03.18:36:45::SCWSystem::Writing the bif 
+TRACE::2021-10-03.18:36:45::SCWPlatform::Started writing the spfm file 
+TRACE::2021-10-03.18:36:45::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-10-03.18:36:45::SCWPlatform::Completed generating the platform
+TRACE::2021-10-03.18:36:45::SCWMssOS::Saving the mss changes /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-10-03.18:36:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-10-03.18:36:45::SCWMssOS::Commit changes completed.
+TRACE::2021-10-03.18:36:45::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:45::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:45::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:45::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:45::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:45::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:45::SCWWriter::formatted JSON is {
+	"platformName":	"m1_nexys_a7_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"m1_nexys_a7_hw",
+	"platHandOff":	"/home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/hardware/m1_nexys_a7/m1_nexys_a7_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/m1_nexys_a7_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"m1_nexys_a7_hw",
+	"systems":	[{
+			"systemName":	"m1_nexys_a7_hw",
+			"systemDesc":	"m1_nexys_a7_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"m1_nexys_a7_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on CORTEXM1_AXI_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"CORTEXM1_AXI_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"a5145050db078f06c8b0755c4fe1d0a5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-10-03.18:36:45::SCWPlatform::updated the xpfm file.
+TRACE::2021-10-03.18:36:45::SCWPlatform::Trying to open the hw design at /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA given /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA absoulate path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform::DSA directory /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw
+TRACE::2021-10-03.18:36:45::SCWPlatform:: Platform Path /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/hw/m1_nexys_a7_wrapper.xsa
+TRACE::2021-10-03.18:36:45::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2021-10-03.18:36:45::SCWPlatform::Trying to set the existing hwdb with name m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:45::SCWPlatform::Opened existing hwdb m1_nexys_a7_wrapper_3
+TRACE::2021-10-03.18:36:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-10-03.18:36:45::SCWMssOS::Checking the sw design at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:36:45::SCWMssOS::DEBUG:  swdes dump  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-10-03.18:36:45::SCWMssOS::Sw design exists and opened at  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp/system.mss
+TRACE::2021-10-03.18:37:26::SCWMssOS::cleaning the bsp 
+TRACE::2021-10-03.18:37:26::SCWMssOS::System Command Ran  cd  /home/jose/Documents/git-ws/personal/local/M1_Nexys_SandBox/projects/m1/software/m1_nexys_a7/sdk_workspace/m1_nexys_a7_hw/CORTEXM1_AXI_0/standalone_domain/bsp ; bash -c "make  clean " 
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/iic_v3_7/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/standalone_v7_3/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/spi_v4_7/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/gpio_v4_7/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/cpu_cortexm1_v1_1/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/uartlite_v3_5/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::make -C CORTEXM1_AXI_0/libsrc/bram_v4_5/src -s clean 
+
+TRACE::2021-10-03.18:37:26::SCWMssOS::rm -f CORTEXM1_AXI_0/lib/libxil.a
+

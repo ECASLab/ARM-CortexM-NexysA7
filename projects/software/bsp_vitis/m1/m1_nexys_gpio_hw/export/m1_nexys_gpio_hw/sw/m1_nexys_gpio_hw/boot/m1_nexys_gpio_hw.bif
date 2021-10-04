@@ -1,0 +1,6 @@
+/*m1_nexys_gpio_hw*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}
