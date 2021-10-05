@@ -14,7 +14,7 @@ limitations under the License.
 ==============================================================================*/
 
 #include "main_functions.h"
-
+#include <stdint.h>
 #include "tensorflow/lite/micro/all_ops_resolver.h"
 #include "constants.h"
 #include "hello_world_model_data.h"
