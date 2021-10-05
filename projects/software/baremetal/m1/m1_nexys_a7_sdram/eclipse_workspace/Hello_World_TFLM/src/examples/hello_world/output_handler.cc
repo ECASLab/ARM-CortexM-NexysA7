@@ -13,12 +13,24 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-#include "output_handler.h"
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
+#include <time.h>
+
 #include "xil_printf.h"
+
+#include "output_handler.h"
 
 void HandleOutput(tflite::ErrorReporter* error_reporter, float x_value,
                   float y_value) {
-  xil_printf("HandleOutput x_value: %i y_value: %i\r\n",x_value,y_value);
+  xil_printf("xil_printf (i):HandleOutput x_value: %i y_value: %i\r\n",
+			  	  x_value,
+				  y_value);
+  xil_printf("xil_printf (f):HandleOutput x_value: %f y_value: %f\r\n",
+          	  static_cast<double>(x_value),
+			  static_cast<double>(y_value));
   // Log the current X and Y values
   TF_LITE_REPORT_ERROR(error_reporter, "x_value: %f, y_value: %f\n",
                        static_cast<double>(x_value),
