@@ -1,12 +1,18 @@
 /***************************** Include Files *********************************/
 #include <ARMCM1.h>
 #include <core_cm1.h>
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
+#include <time.h>
 #include "xil_printf.h"
 #include "xil_types.h"
 
 int main(void)
 {
     char    debugStr[256];
+    float 	testFloat;
     // CPU ID register
     volatile u32 *pCPUId = (u32 *)0xE000ED00;
     volatile u32 CPUId;
@@ -36,5 +42,8 @@ int main(void)
 #else
     print ( debugStr );
 #endif
+    testFloat=1.23456;
+    sprintf(debugStr, "debugStr: Testing floating point(f): %f\r\n",testFloat);
+    print(debugStr);
     return 0;
 }
